@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Cupper"
 theme = "cupper-hugo-theme"
-googleAnalytics = "UA-123456789-1"
+googleAnalytics = ""
 disqusShortname = "yourdiscussshortname"
 enableGitInfo = true
 
@@ -17,8 +17,8 @@ enableGitInfo = true
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+  description = "Writing about learning how to teach English."
+  homeMetaContent = "Writing about learninng how to teach English."
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"

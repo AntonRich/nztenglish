@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grammar on Cupper</title>
+    <link>https://example.com/tags/grammar/</link>
+    <description>Recent content in grammar on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2020 21:41:07 +0300</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/grammar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing Myself with English Grammar Test App</title>
+      <link>https://example.com/assessment-my-english-level-01/</link>
+      <pubDate>Sat, 04 Jan 2020 21:41:07 +0300</pubDate>
+      
+      <guid>https://example.com/assessment-my-english-level-01/</guid>
+      <description>I went through different kinds of assessment tests.
+I have an awesome app with the help of which I can assess my level of English grammar.
+Let&amp;rsquo;s first assess all the scores:
+Tests and their scores:
+ 100 100 70  2&amp;frasl;20 - Articles. The last eruption of the Kilimanjaro volcano happned aobut 200 year ago. 3&amp;frasl;20 - Present Tenses. Where&amp;rsquo;s Monica? I haven&amp;rsquo;t seen her since Monday. - She&amp;rsquo;s at home.</description>
+    </item>
+    
+  </channel>
+</rss>
