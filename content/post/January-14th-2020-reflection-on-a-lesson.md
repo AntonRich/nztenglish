@@ -32,14 +32,13 @@ Other variations:
 **I'm drawing a blank**
 
 * I'm stuck. I can't think of anything.
+* I froze.
 
 There was a situation where the student I. couldn't remember the word. He use the Russian word "зависнуть" to describe his state.
 
 ** Gravity ~~draws~~ us down.~~
 
-
-
-
+* The gravity pulls us down.
 
 I find TheFreeDictionary quite useful. For example I can find the 'kn' words [here](https://www.thefreedictionary.com/words-that-start-with-kn).
 
