@@ -1,4 +1,4 @@
-baseURL = "https://www.nztenglish.com/"
+baseURL = "http://www.nztenglish.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Cupper"
