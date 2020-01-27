@@ -1,15 +1,15 @@
 ---
 title: "January 14th 2020 Reflection on a Lesson"
 date: 2020-01-14T20:23:15+03:00
-draft: true
+draft: false
 tags: ["english", "reflection", "activity"]
 ---
 
-I really liked today's lesson. Despite the fact that I haven't prepared for today's lesson, it was a really good one.
+I really liked today's lesson. Despite the fact that I haven't prepared well for today's lesson, it was a really good one.
 
 I've started lowering the bar.
 
-There was a new student whose level I didn't check. I didn't give him any tests but... I checked his level by noticing some patterns. When he did the simple exercise he used correctly the combination between verbs and prepositions.
+There was a new student whose level I didn't check. I didn't give him any tests but... I checked his level by noticing some patterns. When he did a simple exercise he correctly used the combinations between verbs and prepositions.
 
 ![The picture of the whiteboard of today's lesson.](/images/03_reflection_whiteboard.jpg)
 
@@ -34,7 +34,7 @@ Other variations:
 * I'm stuck. I can't think of anything.
 * I froze.
 
-There was a situation where the student I. couldn't remember the word. He use the Russian word "зависнуть" to describe his state.
+There was a situation where the student I. couldn't remember the word. He used the Russian word "зависнуть" to describe his state.
 
 ** Gravity ~~draws~~ us down.~~
 

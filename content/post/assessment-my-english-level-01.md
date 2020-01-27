@@ -127,11 +127,42 @@ Tests and their scores:
   * 12/20 - Adverbs. John was just ~~mischievously~~ grateful that all his friends bothered to read his first book.
 25. 90
   * 6/20 - Passive Voice. An apple was given to ~~Sandra by Mark.~~
-  * 19/20 - Expressing Hypothetical Meaning. 
+  * 19/20 - Expressing Hypothetical Meaning.
 26. 75
+  * 1/20 - Word Order. ~~Kate does rarely visit the gym.~~
+  * 7/20 - Confusing Words. Trish was seasick on her first sea ~~trip~~ across the Meditarranean.
+  * 15/20 - Prepositions. I'm so angry that my parents decided ~~on~~ buying a dog. I want it so much!
+  * 17/20 - Nouns. Titanic has become one of the most famous ships in history, ~~his~~ memory is kept alive by numerous books, folk songs, films, exhibits, and memorials.
+  * 19/20 - Expressing Hypothetical Meaning. ~~I'd rather Sandra didn't move to Paris a year ago.~~
 27. 70
+  * 5/20 - Future Tense. Will you have finished working when I ~~will come~~ to pick you up?
+  * 6/20 - Passive Voice. ~~I blamed by them for something unfairly and it is very offensive.~~
+  * 11/20 - Adjective. My friend like traveling to nice ~~dowdy~~ places which are unknown to the majority of tourists. He always takes there maginificent photos. (P.S. I think there is a mistake in the app itself. It is supposed to say: He always take magnificent photos.)
+  * 14/20 - Noun Plus Preposition. I didn't agree with Rachel's words. I took the objection ~~at~~ her remarks.
+  * 15/20 - Prepositions. My brother rejoiced ~~on~~ hearing the news.
+  * 16/20 - Adjective Plus Preposition. We were disappointed ~~about~~ the hotel's service.
 28. 80
+  * 4/20 - Past Tenses. They ~~had lived~~ in that house for 3 years. They moved to Denver about a year ago. But their hasn't been sold yet.
+  * 12/20 - Adverbs. Darren was eating ~~greedily~~ the roast chicken because he was very hungry.
+  * 14/20 - Noun Plus Preposition. It was reported on Monday about record rise ~~of~~ foreign investments in the country.
+  * 19/20 - Expressing Hypothetical Meaning. ~~I wish Kurt left his job.~~ Express dissapointment with what somebody did in the past: Kurt left his job.
 29. 70
+  * 4/20 - Past Tenses. I was doing yoga while my dog ~~played~~ in the garden. Now I don't see him.
+  * 7/20 - Confusing Words. The family chose some ~~extrenal~~ location in order to have rest away from the city noise and hurry-scurry.
+  * 9/20 - Irregular Verbs. 'to alight' - ~~alought~~ - ~~alught~~
+  * 12/20 - Adverbs. The team moved after we had passed more than 15 minutes miles ~~slowly~~.
+  * 13/20 - Gerunds and Infinitives. My little sister pretended ~~being~~ a rabbit.
+  * 17/20 - Nouns. Aja is from Denmark. She is a ~~Dutch~~.
 30. 50
+  * 4/20 - Past Tenes. John ~~spent~~ 3 years in Pakistan before he became a teacher of Urdu.
+  * 5/20 - I don't care what it means to you but you ~~are going to throw~~ this old table away now.
+  * 6/20 - Passive Voice. ~~They reported that Mr. Jacobson had been playing football at that time.~~
+  * 7/20 - Confusing Words. The politician ~~gave~~ a final speech of his career.
+  * 8/20 - Phrasal Verbs. My brother ~~looks up to~~ (to resemble somebody from (?) the family) our Grandpa. They both are stubborn and never give up.
+  * 9/20 - Irregular Verbs. 'to flung' - ~~flang~~ - flung
+  * 11/20 - Adjectives. My sister chose a ~~boisterous~~ pencil skirt and pale green top for her first date with Tom. She didn't want to look showy.
+  * 14/20 - Noun Plus Preposition. The newspaper's report ~~for~~ choosing the most convenient place for living was not well researched.
+  * 15/20 - Prepositions. The club succeeded ~~at~~ winning the championship.
+  * 20/20 - Word Formation. 'advice' [noun - adjective - verb]: ~~advisor~~ - ~~advisorial~~ - advise
 
 
