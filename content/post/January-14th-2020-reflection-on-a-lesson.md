@@ -1,7 +1,6 @@
 ---
 title: "January 14th 2020 Reflection on a Lesson"
 date: 2020-01-14T20:23:15+03:00
-draft: false
 tags: ["english", "reflection", "activity"]
 ---
 
