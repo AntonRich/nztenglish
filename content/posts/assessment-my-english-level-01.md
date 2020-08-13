@@ -18,7 +18,7 @@ Tests and their scores:
 1. 100
 2. 100
 3. 70
-  * 2/20 - Articles. The last eruption of ~~the~~ Kilimanjaro volcano happned aobut 200 year ago.
+  * 2/20 - Articles. The last eruption of ~~the~~ Kilimanjaro volcano happened about 200 year ago.
   * 3/20 - Present Tenses. Where's Monica? I haven't seen her since Monday. - She's at home. She ~~recently broke~~ her arm.
   * 7/20 - Confusing Words. It is important to ~~make~~ business with honest partners.
   * 9/20 - Irregular Verbs. Choose two forms of the verb 'to backslide'. ~~backslided-backslided~~
